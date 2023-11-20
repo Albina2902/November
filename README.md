@@ -1,2 +1,3 @@
 # November
-The last fall month
+The last fall month.
+Futher is winter.
